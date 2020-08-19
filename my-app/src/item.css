@@ -1,0 +1,22 @@
+
+.list{
+    text-align: left;
+    background-color: #292929;
+    width: 300px;
+    margin:auto;
+    border-radius: 5px;
+}
+
+.list p{
+    margin: 10px 0;
+    color: white;
+    padding: 15px;
+    position: relative;
+}
+
+.list button{
+    border-radius: 8px;
+    align-self: right;
+    position: absolute;
+    right: 10px
+}

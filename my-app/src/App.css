@@ -1,5 +1,34 @@
+body{
+  background-color: #1E1E1E;
+}
+
 .App {
   text-align: center;
+  margin-top: 20px;
+  
+}
+
+input{
+  background-color: #292929;
+  border: 0;
+  height: 25px;
+  border-radius: 4px;
+  color: white;
+  margin: 5px;
+  width: 250px;
+}
+input:focus{
+  outline: none;
+}
+button {
+  height: 25px;
+  border-radius: 5px;
+  border: 0;
+  background-color: #606368;
+}
+button:focus{
+  outline: none;
+  background-color: #FFB2FF;
 }
 
 .App-logo {
